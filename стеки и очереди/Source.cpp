@@ -50,5 +50,5 @@ void main()
         }
     }
 
-    cout << countlands;
+    cout << countlands; 
 }
